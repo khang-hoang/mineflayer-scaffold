@@ -10,8 +10,10 @@ var materials;
 
 // block types allowed to be used as scaffolding
 var scaffoldBlockTypes = {
+  2:  true, // grass
   3:  true, // dirt
   4:  true, // cobblestone
+  12:  true, // sand
   87: true, // netherrack
 };
 
